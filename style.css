@@ -1,0 +1,84 @@
+/*
+dark blue: #303F9F
+blue: #03A9F4
+the grey thing: #757575
+link color: #3F51B5
+*/
+
+p {
+  font-family: Impact, Charcoal, sans-serif;
+}
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+header {
+    background-color: black;
+    margin: 0%;
+    padding: 1.5%;
+}
+h2 {
+    color: #303F9F;
+    font-family: verdana;
+    font-size: 200%;
+}
+p {
+    font-family: verdana
+}
+* {
+    margin: 5px;
+    padding: 5px;
+    color: black;
+}
+
+ul {
+    font-family: verdana;
+}
+
+li {
+    float: left;
+    display: inline-block; 
+    zoom: 1;
+    display: inline;
+}
+
+nav ul {
+    list-style: none;
+    font-family: verdana;
+    text-transform: uppercase;
+    background: none;
+}
+
+nav a {
+    color: #303F9F;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #8596F7;
+    text-decoration: underline;
+    background-color: #310767;
+}
+
+.smaller {  
+    font-size: 14px;
+}
+
+footer {
+    color: #303F9F;
+    font-family: verdana;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #FFFFFF;
+    font-size: 20px;
+    border: 3px solid #303F9F;
+    background-color: #212121;
+    padding: 10px;
+    margin: 100px;
+}
